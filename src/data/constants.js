@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["MERN Full Stack Developer", "Software Developer", "Programmer"],
   description:
     "Driven by an insatiable appetite for growth and excellence, I approach each challenge as an opportunity to expand my skills and deliver exceptional results. With a relentless commitment to learning and a mindset geared towards innovation, I'm poised to make a transformative impact as a MERN stack developer, pushing boundaries and achieving greatness every step of the way.",
-  github: "https://github.com/vinoth",
+  github: "https://github.com/vinoth1209",
   resume:
     "https://drive.google.com/file/d/1wmczaSWTxedwJR8VBp2WdPAPw_o3grLu/view?usp=drive_linkg",
   linkedin: "https://www.linkedin.com/in/vinoth/",
