@@ -77,6 +77,7 @@ export const HeroLeftContainer = styled.div`
 export const HeroRightContainer = styled.div`
   width: 100%;
   height:'100%';
+  
   display: flex;
   order: 2;
   justify-content: end;
@@ -93,12 +94,10 @@ export const HeroRightContainer = styled.div`
   }
 `;
 
-export const Img = styled.img`
+export const Div = styled.div`
   position: relative;
-  width: 100%;
-  height: 100%;
-  max-width: 400px;
-  max-height: 400px;
+  width: 400px;
+  height: 400px;
   border-radius: 50%;
   border: 2px solid ${({ theme }) => theme.primary};
 
@@ -111,6 +110,16 @@ export const Img = styled.img`
     max-width: 280px;
     max-height: 280px;
   }
+`;
+
+export const Img = styled.img`
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 2px solid ${({ theme }) => theme.primary};
+
+ 
 `;
 
 export const Title = styled.div`

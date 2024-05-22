@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["MERN Full Stack Developer", "Software Developer", "Programmer"],
   description:
     "Driven by an insatiable appetite for growth and excellence, I approach each challenge as an opportunity to expand my skills and deliver exceptional results. With a relentless commitment to learning and a mindset geared towards innovation, I'm poised to make a transformative impact as a MERN stack developer, pushing boundaries and achieving greatness every step of the way.",
-  github: "https://github.com/vinoth",
+  github: "https://github.com/vinoth1209",
   resume:
     "https://drive.google.com/file/d/1wmczaSWTxedwJR8VBp2WdPAPw_o3grLu/view?usp=drive_linkg",
   linkedin: "https://www.linkedin.com/in/vinoth/",
@@ -145,17 +145,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: require("../images/Renambl.png"),
-    role: "MERN Full stack Intern",
-    company: "Renambl Technologies Pvt Ltd.",
-    date: "Mar 2023 - July 2023",
-    desc: "I have worked on both frontend and backend development for mobile applications, leveraging technologies such as React Native for the frontend, and Node.js and MongoDB for the backend. ",
-    skills: ["React Native", "NodeJs", "ExpressJS", "MongoDB", "CSS", "HTML"],
-    doc: "https://drive.google.com/file/d/1O_kmMyoyNjGCeqbw-5gPC-yC-0z5IH2t/view?usp=drive_link",
-    imgProve: require('../images/Vinoth_Intern_Certificate_page.jpg'),
-  },
-  {
-    id: 0,
     img: require("../images/foyer.png"),
     role: "Software Engineer",
     company: "Neurobit",
@@ -174,6 +163,18 @@ export const experiences = [
     doc: "https://drive.google.com/file/d/1O_kmMyoyNjGCeqbw-5gPC-yC-0z5IH2t/view?usp=drive_link",
     imgProve: require('../images/Vinoth_Intern_Certificate_page.jpg'),
   },
+  {
+    id: 0,
+    img: require("../images/Renambl.png"),
+    role: "MERN Full stack Intern",
+    company: "Renambl Technologies Pvt Ltd.",
+    date: "Mar 2023 - July 2023",
+    desc: "I have worked on both frontend and backend development for mobile applications, leveraging technologies such as React Native for the frontend, and Node.js and MongoDB for the backend. ",
+    skills: ["React Native", "NodeJs", "ExpressJS", "MongoDB", "CSS", "HTML"],
+    doc: "https://drive.google.com/file/d/1O_kmMyoyNjGCeqbw-5gPC-yC-0z5IH2t/view?usp=drive_link",
+    imgProve: require('../images/Vinoth_Intern_Certificate_page.jpg'),
+  },
+  
 ];
 
 export const education = [
